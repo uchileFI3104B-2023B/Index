@@ -9,6 +9,6 @@
 - [Tarea 1](https://github.com/uchileFI3104B-2023B/01-tarea-template) : **Entrega**: 23/08/2023 23:00 hrs. Búsqueda de Raíces de una función.
 - [Tarea 2](https://github.com/uchileFI3104B-2023B/02-tarea-template) : **Entrega**: 30/08/2023 23:00 hrs. Integración Numérica.
 - [Tarea 3](https://github.com/uchileFI3104B-2023B/03-tarea-template) : **Entrega**: 06/09/2023 23:00 hrs. Interpolación.
-- [Tarea 4]() : **Entrega**: 27/09/2023 23:00 hrs.
+- [Tarea 4](https://github.com/uchileFI3104B-2023B/04-tarea-template) : **Entrega**: 27/09/2023 23:00 hrs. Álgebra Lineal.
 - [Tarea 5](https://github.com/uchileFI3104B-2023B/05-tarea-template) : **Entrega**: 04/10/2023 23:00 hrs. EDOs - Runge-Kutta.
 - [Tarea 6](https://github.com/uchileFI3104B-2023B/06-tarea-template) : **Entrega**: 11/10/2023 23:00 hrs. EDOs II - Verlet, Beeman.
