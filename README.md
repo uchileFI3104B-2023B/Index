@@ -1,7 +1,7 @@
 # Índice de Repositorios Importantes para el Curso
 
 ## Demos
-
+[Interpolación y Matrices (público)](https://github.com/uchileFI3104B-2023B/demo-interpolacion-algebra-lineal)
 
 ## Tareas (privadas)
 
