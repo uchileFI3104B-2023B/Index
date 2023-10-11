@@ -4,6 +4,7 @@
 - [Interpolación y Matrices (público)](https://github.com/uchileFI3104B-2023B/demo-interpolacion-algebra-lineal)
 - [Demo Runge-Kutta (privado)](https://github.com/uchileFI3104B-2023B/demo-rk2)
 - [Demo OOP (privado)](https://github.com/uchileFI3104B-2023B/demo-oop)
+- [Demo EDPs Elipticas, sobre-relajacion (privado)](https://github.com/uchileFI3104B-2023B/demo-sobre-relajacion)
 
 ## Tareas (privadas)
 
