@@ -5,6 +5,7 @@
 - [Demo Runge-Kutta (privado)](https://github.com/uchileFI3104B-2023B/demo-rk2)
 - [Demo OOP (privado)](https://github.com/uchileFI3104B-2023B/demo-oop)
 - [Demo EDPs Elipticas, sobre-relajacion (privado)](https://github.com/uchileFI3104B-2023B/demo-sobre-relajacion)
+- [Demo EDPs Parabolicas, Crank-Nicolson (privado)](https://github.com/uchileFI3104B-2023B/demo-crank-nicolson)
 
 ## Tareas (privadas)
 
