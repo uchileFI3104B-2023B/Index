@@ -13,3 +13,5 @@
 - [Tarea 4](https://github.com/uchileFI3104B-2023B/04-tarea-template) : **Entrega**: 27/09/2023 23:00 hrs. Álgebra Lineal.
 - [Tarea 5](https://github.com/uchileFI3104B-2023B/05-tarea-template) : **Entrega**: 04/10/2023 23:00 hrs. EDOs - Runge-Kutta.
 - [Tarea 6](https://github.com/uchileFI3104B-2023B/06-tarea-template) : **Entrega**: 11/10/2023 23:00 hrs. EDOs II - Verlet, Beeman.
+- [Tarea 7](https://github.com/uchileFI3104B-2023B/07-tarea-template) : **Entrega**: 11/18/2023 23:00 hrs. EDPs I - Sobrerelajación.
+- [Tarea 8](https://github.com/uchileFI3104B-2023B/08-tarea-template) : **Entrega**: 11/25/2023 23:00 hrs. EDPs II - Crank-Nicolson.
